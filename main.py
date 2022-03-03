@@ -6,3 +6,6 @@ no = 56
 
 math = push + no
 print(math)
+
+for i in range(math):
+    print(i)
